@@ -1,4 +1,4 @@
-# apex-wallet
+# Setup Apex for HTTPS access
 
 <ol>
   <li>Create a directory accessible to oracle
