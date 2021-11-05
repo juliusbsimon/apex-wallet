@@ -14,3 +14,10 @@
 # AWS Key and Secret
 
 https://www.msp360.com/resources/blog/how-to-find-your-aws-access-key-id-and-secret-access-key/
+
+
+# AWS  PLSQL PACKAGE
+
+https://github.com/cmoore-sp/plsql-aws-s3
+
+Since the wallet information is already configured in APEX, you don't need to set it in the package.
